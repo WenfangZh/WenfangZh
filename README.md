@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey there 👋
+
+I'm Wenfang Zhou 🔵⚪🔴
+
+- Data Scientist 📊
+- Reach out to me on [LinkedIn](https://www.linkedin.com/in/wenfang-zhou/) 💼
 
 <!--
 **WenfangZh/WenfangZh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
